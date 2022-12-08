@@ -1,0 +1,34 @@
+{
+    "lista": [
+        {
+            "id": 1,
+            "name": "Camisa Pilares da Criação",
+            "image": "https://i.ibb.co/q5w1Lrc/CAMISA.png",
+            "price": 64.99
+        },
+        {
+            "id": 2,
+            "name": "Camisa Tempestade em Sagitário",
+            "image": "https://i.ibb.co/QcprGJb/CAMISA2.png",
+            "price": 89.99
+        },
+        {
+            "id": 3,
+            "name": "Cropped Helix Nebula",
+            "image": "https://i.ibb.co/DM5tcd8/CROPPED.png",
+            "price": 79.99
+        },
+        {
+            "id": 4,
+            "name": "Moletom Pantone Jupiter",
+            "image": "https://i.ibb.co/gwms5dT/MOLETOM2.png",
+            "price": 119.99
+        },
+        {
+            "id": 5,
+            "name": "Moletom Luas de Jupiter",
+            "image": "https://i.ibb.co/h29Qwym/MOLETOM.png",
+            "price": 89.99
+        }
+      ]
+}
